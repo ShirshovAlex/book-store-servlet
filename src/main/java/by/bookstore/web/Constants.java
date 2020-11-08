@@ -7,6 +7,7 @@ public final class Constants {
     }
 
     public static final String JSP_INDEX_PATH = "/pages/index.jsp";
+
     public static final String JSP_SAVE_AUTHOR_PATH = "/pages/author/saveAuthor.jsp";
     public static final String JSP_DELETE_AUTHOR_BY_ID_PATH = "/pages/author/deleteAuthorById.jsp";
     public static final String JSP_DELETE_AUTHOR_PATH = "/pages/author/deleteAuthor.jsp";
